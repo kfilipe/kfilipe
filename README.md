@@ -1,11 +1,8 @@
 ### Hi there! I am Keveny Filipe 🤟
 
 
-- 🔭 I’m currently working on FIND A JOB
+- 🔭 I’m currently working on private projects
 - 🌱 I’m currently learning JAVASCRIPT
-- 📫 How to reach me: kevenyfilipe@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/kfilipe">
